@@ -32,4 +32,4 @@ var theFunk = function funkyFunction() {
   return "FUNKY!";
 };
 
-console.
+theFunk();
